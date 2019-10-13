@@ -1,0 +1,1 @@
+$('.divTest').css('width','550px');

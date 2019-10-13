@@ -1,0 +1,50 @@
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: bold;
+	src: url('../fonts/eot/IRANSansWeb_Bold.eot');
+	src: url('../fonts/eot/IRANSansWeb-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/woff2/IRANSansWeb-Bold.woff2') format('woff2'),
+		url('../fonts/woff/IRANSansWeb-Bold.woff') format('woff'),
+		url('../fonts/ttf/IRANSansWeb-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 500;
+	src: url('../fonts/eot/IRANSansWeb-Medium.eot');
+	src: url('../fonts/eot/IRANSansWeb-Medium.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/woff2/IRANSansWeb-Medium.woff2') format('woff2'),
+		url('../fonts/woff/IRANSansWeb-Medium.woff') format('woff'),
+		url('../fonts/ttf/IRANSansWeb-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 300;
+	src: url('../fonts/eot/IRANSansWeb-Light.eot');
+	src: url('../fonts/eot/IRANSansWeb-Light.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/woff2/IRANSansWeb-Light.woff2') format('woff2'),
+		url('../fonts/woff/IRANSansWeb-Light.woff') format('woff'),
+		url('../fonts/ttf/IRANSansWeb-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: 200;
+	src: url('../fonts/eot/IRANSansWeb-UltraLight.eot');
+	src: url('../fonts/eot/IRANSansWeb-UltraLight.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/woff2/IRANSansWeb-UltraLight.woff2') format('woff2'),
+		url('../fonts/woff/IRANSansWeb-UltraLight.woff') format('woff'),
+		url('../fonts/ttf/IRANSansWeb-UltraLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: normal;
+	src: url('../fonts/eot/IRANSansWeb.eot');
+	src: url('../fonts/eot/IRANSansWeb.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/woff2/IRANSansWeb.woff2') format('woff2'),
+		url('../fonts/woff/IRANSansWeb.woff') format('woff'),
+		url('../fonts/ttf/IRANSansWeb.ttf') format('truetype');
+}
